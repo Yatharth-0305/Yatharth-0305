@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yatharth Srivastava</h1>
-<h3 align="center">A passionate Software Developer from India.Currently Studying at MIT,Manip</h3>
+<h3 align="center">A passionate Data Analyst from India.Currently Studying at MIT,Manipal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharth-0305&label=Profile%20views&color=0e75b6&style=flat" alt="yatharth-0305" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yatharth-0305" alt="yatharth-0305" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development.**
+- 🌱 I’m currently learning **Front-end Web Development & Data Analytics.**
 
 - 📫 How to reach me **itsreality0305@gmail.com**
 
